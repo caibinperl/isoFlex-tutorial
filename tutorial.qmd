@@ -260,7 +260,7 @@ fastp -i raw_fastqs/SRR1528372.fastq -o fastqs/SRR1528372.fastq.gz
   --adapter_sequence auto
   --qualified_quality_phred 20
   --length_required 18
-  --max_length 26
+  --length_limit 26
 ```
 
 ### Input file specifications
